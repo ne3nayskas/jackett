@@ -15,7 +15,7 @@ Search words (add your own)
 
 ## 📋 Cron Setup
 Every 15 minutes daytime
-```*/15 6-23 * * * /path/to/wake_jackett.sh```
+```*/15 6-23 * * * /home/dockeruser/wake_jackett.sh```
 
 ## 📊 Log Example
 `2026-02-19 16:53:42 - Script started by user: dockeruser
